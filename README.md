@@ -3,7 +3,8 @@ https://fake-news-detector-mo8glltqdywwwwtvigeja2.streamlit.app/
 
 A Streamlit-based web application that analyzes news articles/headlines to detect potential misinformation using machine learning.
 
-![Demo](demo.gif) *(Add a screenshot or GIF later)*
+![Demo](demo.gif) ![image](https://github.com/user-attachments/assets/be368711-b6ce-420b-bb81-117395d861a1)
+
 
 ## Features
 
