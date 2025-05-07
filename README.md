@@ -1,4 +1,5 @@
 # 🕵️ Fake News Detector
+https://fake-news-detector-mo8glltqdywwwwtvigeja2.streamlit.app/
 
 A Streamlit-based web application that analyzes news articles/headlines to detect potential misinformation using machine learning.
 
